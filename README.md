@@ -44,7 +44,6 @@ A simple Django todo app for managing tasks.
 
 ## Usage
 
-- Register or login to your account.
 - Add tasks using the form.
 - Edit or delete tasks using the options provided.
 - Mark tasks as completed when done.
