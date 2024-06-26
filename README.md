@@ -48,10 +48,5 @@ A simple Django todo app for managing tasks.
 - Edit or delete tasks using the options provided.
 - Mark tasks as completed when done.
 
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
----
 
 Feel free to customize this template according to your project's specific details and preferences!
